@@ -1,4 +1,3 @@
-# Doom-style Fire Effect in Colab (Cellular Automaton)
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
